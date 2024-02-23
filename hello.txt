@@ -1,3 +1,3 @@
 first line on main branch
 second line on main branch before opening dev1 branch
-
+third line for master(expecting conflict)
